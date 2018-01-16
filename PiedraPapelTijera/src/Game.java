@@ -1,5 +1,7 @@
 /**
- * Main class of the Java program.
+ * Clase principal.
+ * Versión 1.0
+ * Autor: Profesor Entorno Desarrollo
  */
 public class Game {
 
